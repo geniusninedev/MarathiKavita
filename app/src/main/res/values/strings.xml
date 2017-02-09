@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MarathiKavita</string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_send">Send</string>
+    <string name="app_name4">प्रेम  कविता</string>
+    <string name="app_name5">विरह कविता</string>
+    <string name="app_name9">विरह कविता</string>
+    <string name="app_name6">विनोदी कविता</string>
+    <string name="app_name0">विडंबन कविता</string>
+    <string name="app_name21">्रेरणादायी कविता</string>
+    <string name="app_name22">प्रेरणादायी कविता</string>
+    <string name="app_name09">शृंगारिक कविता</string>
+    <string name="app_name98">गंभीर कविता</string>
+    <string name="app_name67">मैत्री कवित</string>
+    <string name="app_name68">मैत्री कविता</string>
+    <string name="app_name56">भक्ती कविता</string>
+    <string name="app_name89">बालगीत</string>
+    <string name="app_name45">इतर कविता</string>
+    <string name="app_name23">आई कविता</string>
+</resources>

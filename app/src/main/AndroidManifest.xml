@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.nineinfosys.android.marathikavita">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/iconn"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.nineinfosys.android.marathikavita.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.nineinfosys.android.marathikavita.Home.Home"
+            android:label="@string/app_name9"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.nineinfosys.android.marathikavita.Prem.Prem"
+            android:label="@string/app_name4" />
+        <activity
+            android:name="com.nineinfosys.android.marathikavita.Prem.PremDetails"
+            android:label="@string/app_name4" />
+        <activity
+            android:name="com.nineinfosys.android.marathikavita.Virah.Virah"
+            android:label="@string/app_name5" />
+        <activity
+            android:name="com.nineinfosys.android.marathikavita.Virah.VirahDetails"
+            android:label="@string/app_name5" />
+        <activity
+            android:name="com.nineinfosys.android.marathikavita.Vinodi.Vinodi"
+            android:label="@string/app_name6" />
+        <activity
+            android:name="com.nineinfosys.android.marathikavita.Vinodi.VinodiDetails"
+            android:label="@string/app_name6" />
+        <activity
+            android:name="com.nineinfosys.android.marathikavita.Vidamban.Vidamban"
+            android:label="@string/app_name0" />
+        <activity
+            android:name="com.nineinfosys.android.marathikavita.Vidamban.VidambanDetails"
+            android:label="@string/app_name0" />
+        <activity
+            android:name="com.nineinfosys.android.marathikavita.Prerana.Prerana"
+            android:label="@string/app_name22" />
+        <activity
+            android:name="com.nineinfosys.android.marathikavita.Prerana.PreranaDetails"
+            android:label="@string/app_name22" />
+        <activity
+            android:name="com.nineinfosys.android.marathikavita.Shrungar.Shrungar"
+            android:label="@string/app_name09" />
+        <activity
+            android:name="com.nineinfosys.android.marathikavita.Shrungar.ShrungarDetails"
+            android:label="@string/app_name09" />
+        <activity
+            android:name="com.nineinfosys.android.marathikavita.Gambhir.Gambhir"
+            android:label="@string/app_name98" />
+        <activity
+            android:name="com.nineinfosys.android.marathikavita.Gambhir.GambhirDetails"
+            android:label="@string/app_name98" />
+        <activity
+            android:name="com.nineinfosys.android.marathikavita.Metri.Metri"
+            android:label="@string/app_name68" />
+        <activity
+            android:name="com.nineinfosys.android.marathikavita.Metri.MetriDetails"
+            android:label="@string/app_name68" />
+        <activity
+            android:name="com.nineinfosys.android.marathikavita.Bhakti.Bhaktii"
+            android:label="@string/app_name56" />
+        <activity
+            android:name="com.nineinfosys.android.marathikavita.Bhakti.BhaktiiDetails"
+            android:label="@string/app_name56" />
+        <activity
+            android:name="com.nineinfosys.android.marathikavita.Balgeet.Balgeete"
+            android:label="@string/app_name89" />
+        <activity
+            android:name="com.nineinfosys.android.marathikavita.Balgeet.BalgeetDetails"
+            android:label="@string/app_name89" />
+        <activity
+            android:name="com.nineinfosys.android.marathikavita.Itar"
+            android:label="@string/app_name45" />
+        <activity
+            android:name="com.nineinfosys.android.marathikavita.ItarDetails"
+            android:label="@string/app_name45" />
+        <activity
+            android:name="com.nineinfosys.android.marathikavita.Aai.Aai"
+            android:label="@string/app_name23" />
+        <activity android:name="com.nineinfosys.android.marathikavita.Aai.AaiDetails"  android:label="@string/app_name23" ></activity>
+    </application>
+
+</manifest>
